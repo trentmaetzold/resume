@@ -1,0 +1,101 @@
+# Trent Maetzold, CFA
+
+**LinkedIn:** https://www.linkedin.com/in/trent-maetzold-cfa-a085b842  
+**Email:** trent@maetzold.co  
+**Phone:** (612) 704-8719
+
+## Work Experience
+
+### Cargill
+
+**Senior Quantitative Analyst**  
+*Sep 2023 - Present*
+
+**Quantitative Analyst**  
+*Oct 2022 - Sep 2023*
+
+- Developed and managed a Python-based analytics library in QuantLib, focusing on the analysis and visualization of yield curves to identify trading opportunities.
+- Created a comprehensive dashboard using Python and Plotly Dash for systematic yield curve analysis, enhancing traders' ability to make informed decisions.
+- Conducted valuation of options, including exotic derivatives, using QuantLib, and explored advanced valuation models like Stochastic-Local Volatility.
+- Recognized the need for further technical expertise and team collaboration to achieve more complex project goals, demonstrating a clear understanding of project requirements and scope.
+- Adapted to changing project priorities and stakeholder needs, highlighting flexibility and responsiveness to business requirements.
+
+**Trader Assistant**  
+*Apr 2019 - Oct 2022*
+
+- Funding Trader
+    - Managed and optimized funding strategies for a $500 million AUM proprietary trading desk, utilizing diverse financial instruments including repurchase agreements and loan facility loans.
+    - Conducted cross-currency funding optimization, leveraging global market dynamics to capitalize on currency funding differences and execute effective FX hedges.
+    - Spearheaded the development of a comprehensive system for calculating and optimizing funding needs, incorporating market data, collateral assessments, and cost analyses to inform strategic decisions.
+    - Enhanced trade loading processes and compatibility with FrontArena and other systems, including the development of a dynamic, error-free VBA-based trade blotter and an API in Python.
+- Interest Rate Hedging
+    - Acted as a primary backup for interest rate hedging operations, managing risks and executing trades to maintain optimal portfolio balance.
+    - Provided technical expertise and enhancements to the interest rate hedging process, improving efficiency and precision in risk management.
+    - Advised on high-stakes trades and complex financial instruments, contributing to informed decision-making and effective market execution.
+- Middle Office
+    - Maintained and verified daily P&L and risk reports, ensuring accuracy and providing crucial financial data to traders, risk management and other stakeholders.
+    - Innovated a reconciliation tool that automated data integration between accounting and trading systems, streamlining the process and reducing manual efforts significantly.
+    - Conducted in-depth analyses to resolve discrepancies between accounting and trading valuations, improving financial control and accuracy.
+
+**Operations Analyst**  
+*Jan 2018 - Apr 2019*
+
+- Managed post-trade operations for financial securities and derivatives, focusing on process improvements that resulted in a 30% efficiency gain in the tasks I handled.
+- Implemented and maintained robust systems for futures reconciliation, significantly reducing manual entry and enhancing the accuracy of trade settlements.
+- Developed Excel dashboards for efficient tracking and confirmation of futures, CDS, and bond NDFs, contributing to operational efficiency and accuracy.
+
+### Pine River Capital Management
+
+**Operations Analyst**  
+*Jun 2014 - Jan 2018*
+
+- Played a pivotal role in the accurate and timely settlement of high-volume fixed-income, repo, and equity trades, directly contributing to cost efficiency and financial optimization for the firm.
+- Managed post-trade cash flow processing and corporate actions, ensuring prompt and precise execution of financial transactions.
+
+## Certifications
+
+**CFA® charterholder, CFA Institute**  
+*Apr 2019*
+
+## Education
+
+**Minnesota State University, Mankato**  
+***BA Economics, Mathematics Minor***  
+*Jul 2012*
+
+## Military Experience
+
+**Army National Guard, North Dakota**  
+*Apr 2008 - Jan 2015*
+
+**Non-Commissioned Officer in Charge, Operation Noble Eagle**  
+***Washington, DC***  
+*May 2013 - May 2014*
+
+- Led a team in managing a classified surface-to-air missile site, ensuring preparedness against national security threats in the National Capital Region. Entrusted with multi-million dollar military equipment and responsible for operational readiness.
+- Regularly conducted site tours for high-ranking military officials, including general-level staff and other VIPs, demonstrating exceptional leadership and communication skills.
+
+**Team Member, Kosovo Force 12**  
+***Camp Bondsteel, Kosovo***  
+*Aug 2009 - May 2010*
+
+## Skills
+
+### Technical Skills
+
+- Advanced Analytics: Python, R (basic), SQL
+- Financial Tools: QuantLib, FINCAD, Bloomberg Terminal, Excel (VBA, dashboards)
+- Data Visualization: Plotly Dash, Shiny
+- Web Development Frameworks: FastAPI, SQLAlchemy
+- Version Control and Collaboration: Git, GitHub
+- Containerization and Orchestration: Docker, Kubernetes (basic)
+
+### Financial Analysis
+
+- Risk Management: Knowledge in financial risk assessment and mitigation strategies
+- Portfolio Management: Experience in managing and optimizing investment portfolios
+- Quantitative Analysis: Proficient in quantitative methods for financial analysis
+
+### Project Management
+
+- Agile Tools: Jira
